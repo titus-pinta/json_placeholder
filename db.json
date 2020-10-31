@@ -1,7 +1,7 @@
 {
 	"users": {
-		"totalPage": 1
-		"totalItem": 1
+		"totalPage": 1,
+		"totalItem": 1,
 		"data": [
 			{
 				"id": 1,
