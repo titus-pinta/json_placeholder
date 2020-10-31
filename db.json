@@ -1,8 +1,18 @@
 {
-	"posts": [
+	"users": [
 		{
 			"id": 1,
-			"title": "hello"
+			"mobile": "112",
+			"password": "-----",
+			"status": "online",
+			"balance": 23,
+			"email": "t@p",
+			"details": "none",
+			"affiliate_id": 12,
+			"language": "ro",
+			"rate": 10,
+			"image": "none",
+			"otp": "none"
 		}
 	],
 	"profile": {
